@@ -1,4 +1,4 @@
-## Installing and Running this API
+## Installing and running this api
 
 Using yum repository manager:
 
