@@ -1,4 +1,4 @@
-## Install Node Package Manager
+## Installing and Running this API
 
 Using yum repository manager:
 
@@ -11,10 +11,11 @@ Download the repository from github
 $ git clone git@github.com:McFaddenJC/node-api.git
 ```
 
-Using NPM, initialize the application as follows:
+From the command line, initialize the application as follows:
 ```bash
 $ cd node-api/
-$ npm init
+$ npm install
+$ node index.js
 ```
 
 The api runs on port 8080 and has a default function that provides instructions on what endpoints are provided. Each of the endpoints works as follows:
